@@ -1,0 +1,33 @@
+#sheet {
+  position: absolute;
+  top: 600px;
+  left: 10px;
+  height: 200px;
+  width: 790px
+}
+
+#top {
+  position: absolute;
+  top: 0px;
+  left: 10px;
+  height: 100px;
+  width: 790px
+}
+
+#town {
+  position: absolute;
+  top: 200px;
+  left: 10px;
+  height: 500px;
+  width: 790px
+}
+
+#townframe {
+  height: 480px;
+  width: 770px
+}
+
+#sheetframe {
+  height: 180px;
+  width: 770px
+}
